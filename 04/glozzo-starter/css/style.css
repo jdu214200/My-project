@@ -1,0 +1,76 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+  border-left: rgb(239, 230, 230) 3px solid;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url('../img/6e71fc76-e15e-4e6e-a0f2-cc149fbe9288_w1280_r1.77_fpx44.65_fpy44.99.jpg');
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url('../img/21.07.26.jpg');
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url('../img/nBkSUhL2hFcgmca3Jb6BvMKnxdDs85q-0mnEnPyasj2YcGueSyTChTZh94kB7weP_JHL5C6DJtljBPyliSUlaiuC8mlN_xHCxnQ=ke1heEUvhA0BE3eiJ8L6iw.jpg');
+  background-size: cover;
+}
+
+
+#home-icons {
+   
+}
+
+#bg-box {
+  background-image: url(../img/a3c197b5a12d91f3a410f1150d7d527c88a295a3.webp);
+  background-attachment: fixed;
+  min-height: 2 00px;
+  position: relative;
+}
+
+.dark-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, .6);
+}
+
+#what-we-do {
+  position: relative;
+  min-height: 200px;
+  background-attachment: fixed;
+  background-image: url(../img/21.07.26.jpg);
+}
+
+#main-footer {
+  background-color: #000;
+  color: rgb(255, 255, 255);
+}
+
+.about-baner {
+  background-image: url(../img/107032899-1647618290816-apple.jpg);
+  background-attachment: fixed;
+  color: rgb(255, 0, 0);
+}
+
+.about-img {
+  margin-top: 80px;
+}
