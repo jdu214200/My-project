@@ -1,0 +1,38 @@
+CSS-kode (Cascading Style Sheets) er en kode som brukes til å style og formatere HTML-dokumenter. Her er noen eksempler på vanlige CSS-koder:
+
+1. Fargeendring:
+   ```css
+   body {
+     background-color: blue;
+   }
+   ```
+
+2. Endre skriftstørrelse:
+   ```css
+   h1 {
+     font-size: 24px;
+   }
+   ```
+
+3. Legge til en kantlinje:
+   ```css
+   .my-element {
+     border: 1px solid black;
+   }
+   ```
+
+4. Endre tekstfarge:
+   ```css
+   p {
+     color: red;
+   }
+   ```
+
+5. Endre tekstjustering:
+   ```css
+   .my-element {
+     text-align: center;
+   }
+   ```
+
+Dette er bare noen få eksempler på CSS-kode, og det er mange flere egenskaper og muligheter tilgjengelig. CSS brukes til å style og formatere HTML-elementer for å gi dem et visuelt utseende og layout.
